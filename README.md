@@ -150,6 +150,7 @@ We'd greatly appreciate if you could:
 | [Semantic Pen](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | **20BF2025** - 20% OFF | Ends Dec 31 | ✅ |
 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place | **CXBLACK2025** - 50% off | Ends Dec 3 | ✅ |
 | [Summate](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | **SUMMATEBF25** - 50% off ($10/mo annual, $15/mo monthly) | Ends Dec 5 | ✅ |
+| [Moonsmith](https://moonsmith.app/?ref=greatfrontend) | Native Mac app for a team of AI agents that delegate to each other, each on the model you choose: a built-in local model, 22 providers or your AI subscription | **BLACKFRIDAY26** - 20% off the first year of Pro (yearly) | Nov 23 – Dec 1 | ✅ |
 
 ## Design kits
 
